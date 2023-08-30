@@ -1,4 +1,4 @@
-compteRendu:
+contacts:
   cache:
     ttl: 60
     heap-size: 100
@@ -21,7 +21,7 @@ spring:
   zipkin:
     baseUrl: http://localhost:9411
 server:
-  port: 8086
+  port: 8087
 eureka:
   client:
     serviceUrl:
